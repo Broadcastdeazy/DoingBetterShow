@@ -1,0 +1,106 @@
+{
+  "title": "The First Episode of The Doing Better Show",
+  "description": "In our debut episode we discuss the role of platforms like Rumble and TikTok in transforming how people interact with news, AI's impact on work, and public accountability. Greg from Root Awakening Kava teaches us about Kava and its benefits.",
+  "hosts": ["Oliver Ox", "Danny", "Joz"],
+  "guests": ["Greg from Root Awakening Kava"],
+  "main_topics": ["Media Platforms", "Artificial Intelligence", "Public Accountability", "Kava"],
+  "segments": [
+    {
+      "segment_name": "Interview with Greg",
+      "content": "Discussion on the health benefits of Kava and its cultural significance."
+    }
+  ],
+  "release_date": "2023-06-05",
+  "episode_url": "https://rumble.com/user/Doingbetter/first-episode",
+  "additional_notes": "This episode sets the tone for future discussions and introduces our audience to the show's format."
+}
+{
+  "title": "Corporate Authoritarianism and Community Music",
+  "description": "Ox, Danny, and Joz discuss the corporate authoritarian attack on freedom of speech including The Restrict Act, share COVID stories, and delve into personal politics with family and friends. The episode features a conversation with Ben from Be Imagine studio in Haverhill, discussing his journey in the local music industry, the importance of music education, and community activism.",
+  "hosts": ["Oliver Ox", "Danny", "Joz"],
+  "guests": ["Ben from Be Imagine studio"],
+  "main_topics": ["Freedom of Speech", "COVID-19", "Local Music Industry", "Community Activism"],
+  "segments": [
+    {
+      "segment_name": "Interview with Ben",
+      "content": "Ben discusses his experiences and insights into the music industry, emphasizing the role of education and active community involvement."
+    }
+  ],
+  "release_date": "2023-06-12",
+  "episode_url": "https://rumble.com/user/Doingbetter/episode-2",
+  "additional_notes": "This episode explores how personal and societal issues intersect with corporate governance and community engagement."
+}
+{
+  "title": "Exploring Government Actions and Personal Freedoms",
+  "description": "In this episode, Ox, Joz, and Danny discuss various news topics including a government 'kill list', whistleblowers, and presidential candidates. They also delve into the potential dangers of Aspartame, vaccine trial data, and a dam attack in Ukraine. The episode features a conversation with Kristen Grant from Mama K's about supporting the arts through homegrown music festivals.",
+  "hosts": ["Oliver Ox", "Danny", "Joz"],
+  "guests": ["Kristen Grant from Mama K's"],
+  "main_topics": ["Government Actions", "Health Concerns", "Music and Arts", "Personal Freedoms"],
+  "segments": [
+    {
+      "segment_name": "Interview with Kristen Grant",
+      "content": "Kristen shares her experiences organizing music festivals and the importance of supporting the arts and local talent."
+    },
+    {
+      "segment_name": "Maxxx Wisdom",
+      "content": "A discussion on parental protection, honest relationships with children, and personal growth."
+    }
+  ],
+  "release_date": "2023-06-19",
+  "episode_url": "https://rumble.com/user/Doingbetter/episode-3",
+  "additional_notes": "This episode blends deep discussions on societal issues with personal stories and community support."
+}
+{
+  "title": "Modern Music and Mental Health",
+  "description": "Ox, Danny, and Joz welcome Maxxx Lewis to the show to discuss the modern music scene from the perspectives of seasoned musicians. The conversation includes the impact of evolving technology on generations, mental health crises in America, and the role of gratitude in a consumer culture. Joz shares her experiences as a young woman navigating the era of Instagram and Photoshop.",
+  "hosts": ["Oliver Ox", "Danny", "Joz"],
+  "guests": ["Maxxx Lewis"],
+  "main_topics": ["Modern Music Scene", "Mental Health", "Technology Impact", "Cultural Values"],
+  "segments": [
+    {
+      "segment_name": "Interview with Maxxx Lewis",
+      "content": "Maxxx Lewis discusses his decades of experience in composing and performing music, and shares insights into the current state of the music industry."
+    }
+  ],
+  "release_date": "2023-06-26",
+  "episode_url": "https://rumble.com/user/Doingbetter/episode-4",
+  "additional_notes": "This episode provides a rich dialogue on how music and cultural changes impact mental health and societal values."
+}
+{
+  "title": "Vision for Haverhill: Katrina Hobbs Everett",
+  "description": "In this episode, Ox, Danny, and Joz welcome Haverhill City Council candidate Katrina Hobbs Everett. They discuss Katrina's candidacy and vision for Haverhill, focusing on balanced development, modernizing education, and the importance of community involvement in local politics.",
+  "hosts": ["Oliver Ox", "Danny", "Joz"],
+  "guests": ["Katrina Hobbs Everett"],
+  "main_topics": ["Local Politics", "Community Development", "Education Reform"],
+  "segments": [],
+  "release_date": "2023-07-03",
+  "episode_url": "https://rumble.com/user/Doingbetter/episode-5",
+  "additional_notes": "Katrina shares her goals for city council and her strategies for involving the community in shaping the future of Haverhill."
+}
+{
+  "title": "Farewells and Unseen News",
+  "description": "In this reflective episode, Ox and Danny bid farewell to Joz as she prepares to leave the state and start a new chapter. They introduce a new segment called 'News The News Doesn't Want You to Know', exploring topics like censorship, submarines, vaccines, and UFOs. The discussion also covers immigration and Joz's personal experiences and aspirations.",
+  "hosts": ["Oliver Ox", "Danny"],
+  "guests": [],
+  "main_topics": ["Censorship", "Unseen News", "Immigration", "Personal Stories"],
+  "segments": [
+    {
+      "segment_name": "News The News Doesn't Want You to Know",
+      "content": "A segment dedicated to discussing less covered or misrepresented news topics, aiming to uncover the truth behind mainstream narratives."
+    }
+  ],
+  "release_date": "2023-07-10",
+  "episode_url": "https://rumble.com/user/Doingbetter/episode-6",
+  "additional_notes": "This episode marks a significant transitional point in the show's dynamic with Joz's departure."
+}
+{
+  "title": "Debating Democracy and Environmental Concerns",
+  "description": "Ox and Danny tackle some of the most pressing issues of our times, including environmentalism, democracy versus authoritarianism, and the impacts of governmental COVID policies on society. They discuss the balance of power and authority, and how these influence culture, community, and individual freedoms.",
+  "hosts": ["Oliver Ox", "Danny"],
+  "guests": [],
+  "main_topics": ["Environmentalism", "Democracy", "Authoritarianism", "COVID Policies"],
+  "segments": [],
+  "release_date": "2023-07-17",
+  "episode_url": "https://rumble.com/user/Doingbetter/episode-7",
+  "additional_notes": "This episode dives deep into philosophical and societal debates, reflecting on how recent global events have reshaped public and private life."
+}

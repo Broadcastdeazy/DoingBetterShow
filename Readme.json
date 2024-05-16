@@ -1,0 +1,51 @@
+{
+  "project_name": "GPT Model Data Preparation for 'The Doing Better Show'",
+  "project_goal": "Prepare structured data for training a custom GPT model tailored to the 'Doing Better Show'. Use detailed JSON objects for each episode to enhance content discovery, generate automated responses, and provide insights.",
+  "accomplishments": [
+    {
+      "task": "Episode Data Structuring",
+      "description": "Structured detailed JSON objects for the initial seven episodes of the 'Doing Better Show', covering comprehensive data fields."
+    },
+    {
+      "task": "JSON Object Template Creation",
+      "description": "Developed a standard template for episode JSON objects to ensure consistency and extendability."
+    },
+    {
+      "task": "Documentation and Guidance",
+      "description": "Created documentation to assist in understanding and using the episode data set."
+    }
+  ],
+  "json_object_structure": {
+    "fields": [
+      "Title",
+      "Description",
+      "Hosts",
+      "Guests",
+      "Main Topics",
+      "Segments",
+      "Release Date",
+      "Episode URL",
+      "Additional Notes"
+    ]
+  },
+  "example_json_object": {
+    "title": "The First Episode of The Doing Better Show",
+    "description": "In our debut episode we discuss the role of platforms like Rumble and TikTok in transforming how people interact with news, AI's impact on work, and public accountability. Greg from Root Awakening Kava teaches us about Kava and its benefits.",
+    "hosts": ["Oliver Ox", "Danny", "Joz"],
+    "guests": ["Greg from Root Awakening Kava"],
+    "main_topics": ["Media Platforms", "Artificial Intelligence", "Public Accountability", "Kava"],
+    "segments": [
+      {
+        "segment_name": "Interview with Greg",
+        "content": "Discussion on the health benefits of Kava and its cultural significance."
+      }
+    ],
+    "release_date": "2023-06-05",
+    "episode_url": "https://rumble.com/user/Doingbetter/first-episode",
+    "additional_notes": "This episode sets the tone for future discussions and introduces our audience to the show's format."
+  },
+  "future_directions": [
+    "Expansion of Data Set",
+    "Model Training and Application"
+  ]
+}
